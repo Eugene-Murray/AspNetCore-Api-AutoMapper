@@ -1,0 +1,72 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs and Database
+*.log
+*.ldf
+*.mdf
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.log
+*.obj
+*.tmp
+*.vspscc
+*.vssscc
+
+# Build folders
+bin/
+obj/
+out/
+
+# ASP.NET Scaffolding folders
+.scaffolding/
+
+# Visual Studio specific
+.vscode/
+.vs/
+*.tmproj
+*.csproj.user
+*.vbproj.user
+_ReSharper/
+*.[Rr]e[Ss]harper
+
+# Rider IDE
+.idea/
+*.sln.iml
+
+# npm, yarn and static web-related files
+node_modules/
+wwwroot/lib/
+
+# Packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Secrets
+secrets.json
+appsettings.Development.json
+
+# Mac specific
+*.DS_Store
+
+# Windows specific
+Thumbs.db
+desktop.ini
+
+# JetBrains Rider
+.idea/
+*.sln.iml
